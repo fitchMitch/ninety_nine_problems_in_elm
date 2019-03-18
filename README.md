@@ -1,4 +1,7 @@
-# ninety_nine_problems_in_elm
+# Ninety_nine_problems_in_elm
 
 Even faster than ReactJS, Elm sounds promissing.
-I share here the problems I have solved with great pleasure : after using interpreted languages with joy, I discover with joy this unexpected rigor Elm requires.
+I share here after the problems I have solved with great pleasure : after using interpreted languages, I discover these unexpected benefits of the rigor Elm requires by him self.
+
+### References
+https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/
