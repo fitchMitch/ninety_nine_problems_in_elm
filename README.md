@@ -7,6 +7,6 @@ I share here after the problems I have solved with great pleasure : after using 
 https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/
 
 ```sequence
-A-B
+A->B
 B->C
 ```
