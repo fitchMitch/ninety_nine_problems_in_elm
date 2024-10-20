@@ -5,3 +5,8 @@ I share here after the problems I have solved with great pleasure : after using 
 
 ### References
 https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/
+
+```sequence
+A-B
+B->C
+```
